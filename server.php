@@ -2,7 +2,7 @@
 $errors =  array();
 $success = array(); 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '', 'xyz');
+$db = mysqli_connect('localhost', 'root', '', 'excellence_test');
 
 // REGISTER USER
 if (isset($_POST['SubmitForm'])) {
