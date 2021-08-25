@@ -2,7 +2,7 @@
 $servername="localhost";
 $username="root";
 $password="";
-$dbname="xyz";
+$dbname="excellence_test";
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);
 
